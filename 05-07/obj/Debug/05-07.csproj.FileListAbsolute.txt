@@ -1,0 +1,7 @@
+C:\Users\Vincent\Desktop\05-07\bin\Debug\05-07.exe.config
+C:\Users\Vincent\Desktop\05-07\bin\Debug\05-07.exe
+C:\Users\Vincent\Desktop\05-07\bin\Debug\05-07.pdb
+C:\Users\Vincent\Desktop\05-07\obj\Debug\05-07.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\05-07\obj\Debug\05-07.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\05-07\obj\Debug\05-07.exe
+C:\Users\Vincent\Desktop\05-07\obj\Debug\05-07.pdb

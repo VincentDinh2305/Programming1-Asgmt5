@@ -1,0 +1,14 @@
+C:\Users\Vincent\Desktop\06-08\bin\Debug\06-08.exe.config
+C:\Users\Vincent\Desktop\06-08\bin\Debug\06-08.exe
+C:\Users\Vincent\Desktop\06-08\bin\Debug\06-08.pdb
+C:\Users\Vincent\Desktop\06-08\obj\Debug\06-08.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\06-08\obj\Debug\06-08.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\06-08\obj\Debug\06-08.exe
+C:\Users\Vincent\Desktop\06-08\obj\Debug\06-08.pdb
+C:\Users\Vincent\Desktop\Programming I - COMP100\Assignment 5\06-08\bin\Debug\06-08.exe.config
+C:\Users\Vincent\Desktop\Programming I - COMP100\Assignment 5\06-08\bin\Debug\06-08.exe
+C:\Users\Vincent\Desktop\Programming I - COMP100\Assignment 5\06-08\bin\Debug\06-08.pdb
+C:\Users\Vincent\Desktop\Programming I - COMP100\Assignment 5\06-08\obj\Debug\06-08.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\Programming I - COMP100\Assignment 5\06-08\obj\Debug\06-08.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\Programming I - COMP100\Assignment 5\06-08\obj\Debug\06-08.exe
+C:\Users\Vincent\Desktop\Programming I - COMP100\Assignment 5\06-08\obj\Debug\06-08.pdb
